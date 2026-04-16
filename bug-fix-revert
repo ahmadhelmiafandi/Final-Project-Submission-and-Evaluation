@@ -1,5 +1,5 @@
-$ curl -s https://api.github.com/repos/ahmadhelmiafandi/Final-Project-Submission-and-Evaluation/pulls?state=all | grep -E "title|state|html_url|base|label"
-      "html_url": "https://github.com/ahmadhelmiafandi/Final-Project-Submission-and-Evaluation/pull/1",
+$ curl -s https://api.github.com/repos/ahmadhelmiafandi/mcino-Introduction-to-Git-and-GitHub/pulls?state=all | grep -E "title|state|html_url|base|label"
+      "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/1",
       "state": "open",
       "title": "Fix typo in simple-interest.sh",
       "label": "ahmadhelmiafandi:main",

@@ -1,5 +1,5 @@
-$ curl -s https://api.github.com/repos/ahmadhelmiafandi/Final-Project-Submission-and-Evaluation | grep -E "full_name|fork\":|source\":|parent\":"
-  "full_name": "ahmadhelmiafandi/Final-Project-Submission-and-Evaluation",
+$ curl -s https://api.github.com/repos/ahmadhelmiafandi/mcino-Introduction-to-Git-and-GitHub | grep -E "full_name|fork\":|source\":|parent\":"
+  "full_name": "ahmadhelmiafandi/mcino-Introduction-to-Git-and-GitHub",
   "fork": true,
   "parent": {
     "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",

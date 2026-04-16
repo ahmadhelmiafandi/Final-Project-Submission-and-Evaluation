@@ -1,27 +1,27 @@
-# Kode Etik Kontributor (Code of Conduct)
+# Contributor Covenant Code of Conduct
 
-## Janji Kami
-Dalam kepentingan menciptakan lingkungan yang terbuka dan ramah, kami sebagai kontributor dan pengelola berjanji untuk menjadikan partisipasi dalam proyek kami sebuah pengalaman bebas pelecehan untuk semua orang.
+## Our Pledge
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone.
 
-## Standar Kami
-Contoh perilaku yang berkontribusi untuk menciptakan lingkungan yang positif meliputi:
-* Menggunakan bahasa yang sopan dan inklusif
-* Menghargai sudut pandang dan pengalaman yang berbeda
-* Menerima kritik yang membangun dengan baik
-* Fokus pada apa yang terbaik bagi komunitas
-* Menunjukkan empati terhadap anggota komunitas lainnya
+## Our Standards
+Examples of behavior that contributes to creating a positive environment include:
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the community
+* Showing empathy towards other community members
 
-## Tanggung Jawab Penegakan
-Pengelola proyek bertanggung jawab untuk memperjelas standar perilaku yang dapat diterima dan diharapkan untuk mengambil tindakan korektif yang tepat dan adil sebagai tanggapan atas setiap perilaku yang tidak dapat diterima.
+## Enforcement Responsibilities
+Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
-## Ruang Lingkup
-Kode etik ini berlaku di dalam ruang lingkup proyek dan di ruang publik saat seseorang mewakili proyek atau komunitasnya.
+## Scope
+This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community.
 
-## Penegakan
-Contoh perilaku kasar, melecehkan, atau tidak dapat diterima dapat dilaporkan dengan menghubungi pengelola proyek. Semua keluhan akan ditinjau dan diselidiki serta akan menghasilkan tanggapan yang diperlukan dan sesuai dengan situasi.
+## Enforcement
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
 
-## Pedoman Penegakan
-Pengelola proyek akan mengikuti Pedoman Penegakan Komunitas dalam menentukan konsekuensi atas setiap tindakan yang mereka anggap melanggar kode etik ini.
+## Enforcement Guidelines
+Project maintainers will follow the Community Enforcement Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct.
 
-## Atribusi
-Kode Etik ini diadaptasi dari Contributor Covenant, versi 1.4, tersedia di https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+## Attribution
+This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
